@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Word Quiz Game</string>
+    <string name="app_title">Word Quiz Game</string>
+    <string name="play_game_label">Play Game</string>
+    <string name="high_score_label">High Score</string>
+
+    <string name="choose_difficulty_title">Choose Difficulty Level</string>
+
+    <string name="easy_label">Easy</string>
+    <string name="medium_label">Medium</string>
+    <string name="hard_label">Hard</string>
+
+    <string-array name="difficulty_labels">
+        <item name="easy">@string/easy_label</item>
+        <item name="medium">@string/medium_label</item>
+        <item name="hard">@string/hard_label</item>
+    </string-array>
+
+    <string name="question_number_label">Question %1$d of %2$d</string>
+    <string name="guess_label">Guess the Word</string>
+    <string name="correct_label">Correct</string>
+    <string name="incorrect_label">Incorrect, try again</string>
+
+    <string name="result_title">Result</string>
+    <string name="total_guesses_label">Total guesses: %1$d</string>
+    <string name="success_percentage_label">Success percentage: %1$.1f</string>
+    <string name="restart_quiz_label">Restart Quiz</string>
+    <string name="return_to_menu_label">Return to Menu</string>
+</resources>

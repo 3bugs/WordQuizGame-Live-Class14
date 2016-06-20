@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Word Quiz Game Master</string>
+    <string name="app_title">เกมทายคำศัพท์\nภาษาอังกฤษ</string>
+    <string name="play_game_label">เล่นเกม</string>
+    <string name="high_score_label">คะแนนสูงสุด</string>
+    <string name="easy_label">ง่าย</string>
+    <string name="hard_label">ยาก</string>
+    <string name="medium_label">ปานกลาง</string>
+    <string name="choose_difficulty_title">เลือกระดับความยาก</string>
+    <string name="guess_label">ภาพนี้คือคำอะไรเอ่ย</string>
+    <string name="correct_label">ถูกต้องนะคร้าบบบ</string>
+    <string name="incorrect_label">ยังไม่ถูก ลองใหม่นะครับ</string>
+    <string name="question_number_label">คำถาม %1$d จาก %2$d</string>
+    <string name="restart_quiz_label">เริ่มเกมใหม่</string>
+    <string name="result_title">สรุปผล</string>
+    <string name="return_to_menu_label">กลับหน้าหลัก</string>
+    <string name="success_percentage_label">เปอร์เซ็นต์ความสำเร็จ: %1$.1f</string>
+    <string name="total_guesses_label">จำนวนครั้งที่ทาย: %1$d</string>
+</resources>
